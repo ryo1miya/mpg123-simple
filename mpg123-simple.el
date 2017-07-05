@@ -1,7 +1,7 @@
 ;;; mpg123-simple.el --- a simple interface to `mpg123'
 
 ;;     Copyright (C) 2016 MIYAZAKI Ryoichi
-;;     http://lambda-domain.com/ryo1blog/mail-form/
+;;     Contact: http://lambda-domain.com/ryo1blog/mail-form/
 
 ;;     This program is free software: you can redistribute it and/or modify
 ;;     it under the terms of the GNU General Public License as published by
